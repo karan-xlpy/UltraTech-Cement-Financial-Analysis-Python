@@ -1,25 +1,48 @@
-# UltraTech Cement Financial Analysis Using Python
-### Project Overview
+# Financial Statement Analysis Using Python
+(Historical Financial Data Analysis and Ratio Computation)
 
-This project presents a structured equity research–oriented financial analysis of a publicly listed Indian company using historical financial statement data. The objective is to demonstrate a fundamental analysis framework commonly applied in institutional equity research, focusing on financial performance, capital structure, profitability, liquidity, and valuation-related metrics.
+### Overview:
+- This project demonstrates financial statement analysis using Python based on historical financial data of a publicly listed Indian company. The analysis focuses on structuring financial data, computing selected financial ratios, and evaluating multi-year trends using programmatic methods.
+- The project has been designed to reflect core analytical workflows commonly expected in Financial Analyst and Business Analyst roles, emphasizing data accuracy, clarity, and reproducibility.
 
-The analysis has been carried out using Python-based data analysis tools to ensure transparency, reproducibility, and analytical rigor.
+### Project Output:
+The project produces the following analytical outputs:
 
-### Objective
-- To analyze the historical financial performance of the company using standardized financial ratios
-- To evaluate trends in profitability, leverage, efficiency, and working capital
-- To structure financial data in a clean, analysis-ready format suitable for equity research workflows
-- To apply Python for financial data cleaning, computation, and visualization
+- Clean, sheet-wise CSV files for income statement, balance sheet, and cash flow data
+- Computation of selected financial ratios covering profitability, liquidity, leverage, and efficiency
+- Multi-year trend analysis of key financial metrics
+- Python-based charts to support financial trend interpretation
+- The output enables a structured review of historical financial performance without forecasting, valuation modeling, or investment recommendations.
 
-### Scope of Analysis
-The project covers the following key areas:
+### Analysis Covered:
 
-1. Income Statement Analysis: Revenue growth, operating margins, profitability trends
+- Income statement trend analysis
+- Balance sheet and capital structure assessment
+- Cash flow trend review
+- Selected financial ratio computation
+- Visual analysis of key financial metrics over time
 
-2. Balance Sheet Analysis: Capital structure, leverage ratios, working capital position
+### Data Sources:
 
-3. Cash Flow Analysis: Operating cash flow trends and reinvestment patterns
+Financial data has been compiled from publicly available disclosures, including company annual reports and financial databases such as Screener, investing.com. All data used in this project is secondary data and has been reviewed for internal consistency prior to analysis.
 
-4. Financial Ratio Analysis: Profitability ratios, Liquidity ratios, Leverage ratios, Efficiency ratios
+### Tools Used: 
 
-5. Trend & Comparative Insights: Multi-year analysis to identify structural and cyclical movements
+- Python:  Pandas, NumPy, Matplotlib
+- CSV-based structured datasets
+
+### Methodology:
+
+- Historical financial data was cleaned and standardized before analysis
+- Financial ratios were calculated using commonly accepted financial definitions
+- The analysis is limited strictly to historical performance evaluation
+
+### Disclaimer:
+
+- This project has been prepared solely for academic and learning purposes.
+- It does not constitute investment advice, valuation analysis, or a recommendation to buy or sell securities.
+- All analysis is based on publicly available historical data and is intended only to demonstrate analytical techniques.
+  
+  
+
+  
